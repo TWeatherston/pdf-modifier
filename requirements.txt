@@ -1,7 +1,7 @@
-﻿chardet==3.0.4
+chardet==3.0.4
 pdfminer.six==20200517
 pycryptodome==3.9.8
-PyPDF2==1.27.5
+PyPDF2==1.27.9
 PyQt5==5.15.0
 PyQt5-sip==12.8.0
 sortedcontainers==2.2.2
